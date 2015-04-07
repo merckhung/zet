@@ -1,0 +1,149 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'pll|altpll_component|pll|clk[0]'
+Slack : -2.746
+TNS   : -4.295
+
+Type  : Slow 1200mV 85C Model Setup 'pll|altpll_component|pll|clk[2]'
+Slack : 1.336
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'vga_fml:vga|vga_lcd_fml:lcd|next_pal_dac_cyc'
+Slack : 36.578
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'pll|altpll_component|pll|clk[0]'
+Slack : 0.315
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'pll|altpll_component|pll|clk[2]'
+Slack : 0.358
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'vga_fml:vga|vga_lcd_fml:lcd|next_pal_dac_cyc'
+Slack : 0.392
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'pll|altpll_component|pll|clk[2]'
+Slack : 77.210
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'pll|altpll_component|pll|clk[2]'
+Slack : 1.096
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'pll|altpll_component|pll|clk[0]'
+Slack : 4.731
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk_50_'
+Slack : 9.740
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'vga_fml:vga|vga_lcd_fml:lcd|next_pal_dac_cyc'
+Slack : 19.774
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'pll|altpll_component|pll|clk[2]'
+Slack : 39.685
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'pll|altpll_component|pll|clk[0]'
+Slack : -1.764
+TNS   : -2.425
+
+Type  : Slow 1200mV 0C Model Setup 'pll|altpll_component|pll|clk[2]'
+Slack : 1.495
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'vga_fml:vga|vga_lcd_fml:lcd|next_pal_dac_cyc'
+Slack : 36.744
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'pll|altpll_component|pll|clk[0]'
+Slack : 0.301
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'pll|altpll_component|pll|clk[2]'
+Slack : 0.312
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'vga_fml:vga|vga_lcd_fml:lcd|next_pal_dac_cyc'
+Slack : 0.349
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'pll|altpll_component|pll|clk[2]'
+Slack : 77.479
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'pll|altpll_component|pll|clk[2]'
+Slack : 0.996
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'pll|altpll_component|pll|clk[0]'
+Slack : 4.738
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk_50_'
+Slack : 9.713
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'vga_fml:vga|vga_lcd_fml:lcd|next_pal_dac_cyc'
+Slack : 19.786
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'pll|altpll_component|pll|clk[2]'
+Slack : 39.713
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'pll|altpll_component|pll|clk[0]'
+Slack : 1.384
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'pll|altpll_component|pll|clk[2]'
+Slack : 1.955
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'vga_fml:vga|vga_lcd_fml:lcd|next_pal_dac_cyc'
+Slack : 37.856
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'pll|altpll_component|pll|clk[0]'
+Slack : 0.155
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'pll|altpll_component|pll|clk[2]'
+Slack : 0.187
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'vga_fml:vga|vga_lcd_fml:lcd|next_pal_dac_cyc'
+Slack : 0.206
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'pll|altpll_component|pll|clk[2]'
+Slack : 78.315
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'pll|altpll_component|pll|clk[2]'
+Slack : 0.595
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'pll|altpll_component|pll|clk[0]'
+Slack : 4.746
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk_50_'
+Slack : 9.425
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'vga_fml:vga|vga_lcd_fml:lcd|next_pal_dac_cyc'
+Slack : 19.753
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'pll|altpll_component|pll|clk[2]'
+Slack : 39.746
+TNS   : 0.000
+
+------------------------------------------------------------

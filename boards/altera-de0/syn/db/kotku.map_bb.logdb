@@ -1,0 +1,2 @@
+v1
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,zet:zet|zet_core:core|zet_exec:exec|zet_alu:alu|zet_muldiv:muldiv|zet_signmul17:signmul17|lpm_mult:Mult0|mult_u4t:auto_generated|mac_out2,
